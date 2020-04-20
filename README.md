@@ -9,7 +9,7 @@
  </p>
 </p>
 
-> Inspired from the __Carbon Ads__ integration in the official [vuepress documentation](https://vuepress.vuejs.org/guide/) and its source code, this theme extends the default vuepress theme with a __Carbon Ads__ slot in the sidebar.
+> Inspired from the [__Carbon Ads__](https://www.carbonads.net/) integration in the official [vuepress documentation](https://vuepress.vuejs.org/guide/) and its source code, this theme extends the default vuepress theme with a __Carbon Ads__ slot in the sidebar.
 
 ## Demo / Example
 
