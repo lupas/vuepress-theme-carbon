@@ -34,3 +34,6 @@ module.exports = {
 
 Thanks to [Vuepress](https://github.com/vuejs/vuepress).
 
+## License
+
+MIT - [Pascal Luther](https://github.com/lupas)
