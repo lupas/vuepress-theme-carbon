@@ -1,6 +1,15 @@
 # vuepress-theme-carbon
 
-Inspired from the _Carbon Ads_ integration in the official [vuepress documentation](https://vuepress.vuejs.org/guide/) and its source code, this theme extends the default vuepress theme with a __Carbon Ads__ slot in the sidebar.
+<p align="center"><img align="center" height="300px" src="comingSoon"/></p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/vuepress-theme-carbon"><img src="https://badgen.net/npm/dm/vuepress-theme-carbon" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/vuepress-theme-carbon"><img src="https://badgen.net/npm/v/vuepress-theme-carbon" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/vuepress-theme-carbon"><img src="https://badgen.net/npm/license/vuepress-theme-carbon" alt="License"></a>
+ </p>
+</p>
+
+> Inspired from the _Carbon Ads_ integration in the official [vuepress documentation](https://vuepress.vuejs.org/guide/) and its source code, this theme extends the default vuepress theme with a __Carbon Ads__ slot in the sidebar.
 
 ## Demo / Example
 
