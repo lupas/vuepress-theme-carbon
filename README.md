@@ -9,11 +9,11 @@
  </p>
 </p>
 
-> Inspired from the _Carbon Ads_ integration in the official [vuepress documentation](https://vuepress.vuejs.org/guide/) and its source code, this theme extends the default vuepress theme with a __Carbon Ads__ slot in the sidebar.
+> Inspired from the __Carbon Ads__ integration in the official [vuepress documentation](https://vuepress.vuejs.org/guide/) and its source code, this theme extends the default vuepress theme with a __Carbon Ads__ slot in the sidebar.
 
 ## Demo / Example
 
-* [@nuxtjs/firebase Documentation](https://firebase.nuxtjs.org/guide/getting-started/) 
+* [@nuxtjs/firebase Documentation](https://firebase.nuxtjs.org/guide/getting-started/) - See top left corner
 
 ## Install
 
@@ -29,15 +29,18 @@ yarn add vuepress-theme-carbon -D
 module.exports = {
   theme: 'carbon',
   themeConfig: {
-    // Your ad-id and placement from your Carbon Ads tag;
+    // Your ad ID and placement lavbel from your Carbon Ads tag:
     carbonAds: {
       serve: "yourServeId",
       placement: "yourPlacementLabel"
     },
-    // All the other themeConfig options from the default theme.
+    // All the other options from the default theme:
+    // ...
   }
 }
 ```
+
+See [default theme config](https://vuepress.vuejs.org/theme/default-theme-config.html).
 
 ## Credits
 
