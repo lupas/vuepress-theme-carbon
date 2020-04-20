@@ -1,0 +1,16 @@
+{
+    "name": "vuepress-theme-carbon",
+    "version": "1.0.0",
+    "description": "Vuepress default theme with support for Carbon Ads.",
+    "repository": {
+      "type": "git",
+      "url": "lupas/vuepress-theme-carbon"
+    },
+    "license": "MIT",
+    "files": [
+      "index.js",
+      "layouts",
+      "components"
+    ],
+    "main": "index.js"
+  }
