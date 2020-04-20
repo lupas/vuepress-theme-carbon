@@ -1,6 +1,6 @@
 # vuepress-theme-carbon
 
-<p align="center"><img align="center" height="300px" src="comingSoon"/></p>
+<p align="center"><img align="center" height="300px" src="https://github.com/lupas/vuepress-theme-carbon/blob/master/misc/hero_vuepress-theme-carbon.png?raw=true"/></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/vuepress-theme-carbon"><img src="https://badgen.net/npm/dm/vuepress-theme-carbon" alt="Downloads"></a>
