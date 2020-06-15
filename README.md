@@ -29,7 +29,7 @@ yarn add vuepress-theme-carbon -D
 module.exports = {
   theme: 'carbon',
   themeConfig: {
-    // Your ad ID and placement lavbel from your Carbon Ads tag:
+    // Your ad ID and placement label from your Carbon Ads tag:
     carbonAds: {
       serve: "yourServeId",
       placement: "yourPlacementLabel"
